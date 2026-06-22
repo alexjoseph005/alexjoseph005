@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Alex Joseph 👋
 
-<!--
-**alexjoseph005/alexjoseph005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Software Project Development
+- Web Development
+- Cybersecurity
+- Java
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I love building projects that solve real-world problems.
+
+Currently exploring:
+- Software Development and Web Development
+- Cybersecurity
+- API's
+- Core computer science concepts
+
+## 🛠 Tech Stack
+
+- Java
+- Python
+- C
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Git
+- GitHub
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/alex-joseph2255
+
+GitHub: github.com/alexjoseph005
