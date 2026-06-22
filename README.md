@@ -1,15 +1,15 @@
 # Hi, I'm Alex Joseph 👋
 
-🎓 B.Tech Computer Science Engineering Student
+ B.Tech Computer Science Engineering Student
 
-💻 Interested in:
+ Interested in:
 - Software Project Development
 - Web Development
 - Cybersecurity
 - Java
 - Python
 
-## 🚀 About Me
+##  About Me
 
 I love building projects that solve real-world problems.
 
@@ -19,7 +19,7 @@ Currently exploring:
 - API's
 - Core computer science concepts
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Java
 - Python
@@ -31,7 +31,7 @@ Currently exploring:
 - Git
 - GitHub
 
-## 📫 Connect With Me
+##  Connect With Me
 
 LinkedIn: www.linkedin.com/in/alex-joseph2255
 
