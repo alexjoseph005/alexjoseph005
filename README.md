@@ -1,6 +1,7 @@
 # Hi, I'm Alex Joseph 👋
 
- B.Tech Computer Science Engineering Student
+Computer Science Engineering student passionate about software development and continuous learning. Currently working on JavaScript and exploring the MERN stack while expanding my knowledge of APIs, cloud computing, cybersecurity, and core computer science concepts. Always trying to build, learning, and improving through hands-on projects.
+
 
  Interested in:
 - Software Project Development
@@ -14,11 +15,18 @@
 I love building projects that solve real-world problems.
 
 Currently exploring:
+- MERN Stack
 - Software Development and Web Development
 - Cybersecurity
 - API's
 - Core computer science concepts
 
+##  Projects
+
+- Research on Multi-Level Cache Performance Evaluation Using Benchmark Programs(Team project)
+- Staysphere(ongoing)
+- Expense Tracker(ongoing)[Team project]
+  
 ##  Tech Stack
 
 - Java
