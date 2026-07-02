@@ -25,7 +25,7 @@ Currently exploring:
 
 - Research on Multi-Level Cache Performance Evaluation Using Benchmark Programs(Team project)
 - Staysphere(ongoing)
-- Expense Tracker(ongoing)[Team project]
+- Expense Tracker(Team project)
   
 ##  Tech Stack
 
@@ -44,3 +44,5 @@ Currently exploring:
 LinkedIn: www.linkedin.com/in/alex-joseph2255
 
 GitHub: github.com/alexjoseph005
+
+Gmail: alexpantha2@gmail.com
